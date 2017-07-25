@@ -1,7 +1,0 @@
-C:\repos\trov-int\CodeScreen.Exercise\bin\Debug\CodeScreen.Models.dll
-C:\repos\trov-int\CodeScreen.Exercise\bin\Debug\CodeScreen.Models.pdb
-C:\repos\trov-int\CodeScreen.Exercise\bin\Debug\xunit.dll
-C:\repos\trov-int\CodeScreen.Exercise\bin\Debug\xunit.xml
-C:\repos\trov-int\CodeScreen.Exercise\obj\Debug\CodeScreen.Exercise.csprojResolveAssemblyReference.cache
-C:\repos\trov-int\CodeScreen.Exercise\obj\Debug\CodeScreen.Models.dll
-C:\repos\trov-int\CodeScreen.Exercise\obj\Debug\CodeScreen.Models.pdb
