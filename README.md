@@ -1,2 +1,4 @@
-# CheckOut
-A C# app for managing a story inventory
+CheckOut
+========
+
+Only for example, not ready for production.
